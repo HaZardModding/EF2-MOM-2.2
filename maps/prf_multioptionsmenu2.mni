@@ -1,0 +1,12 @@
+LevelProperties
+{
+	mapname				"prf_multioptionsmenu2"
+	longmapname			"MOM 2 - Testmap"
+	screenshot			"sysimg/mapshots/prf_multioptionsmenu2.tga"
+	gametype			"Holomatch"	
+	modifier			"instantkill"
+	modifier			"actionhero"
+	modifier			"handicap"
+	modifier			"weaponscore"
+	modifier			"elimination"
+}
